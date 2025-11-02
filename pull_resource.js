@@ -4,7 +4,7 @@ const https = require('https');
 const { URL } = require('url');
 
 // Configuration
-const INDEX_HTML_PATH = path.join(__dirname, 'index.html');
+const INDEX_HTML_PATH = path.join(__dirname, 'vita.html');
 const OUTPUT_DIR = path.join(__dirname, 'sscopy');
 
 // Read and parse HTML file
